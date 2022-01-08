@@ -14,7 +14,7 @@ class Form{
     }
     display() {
         this.title.html("RECOLECTAR FRUTAS");
-        this.title.position(550, 50);
+        this.title.position(510, 50);
         this.title.style('font-size', '70px');
         this.title.style('color', 'skyblue');
         this.input.position(900,400);
